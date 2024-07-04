@@ -12,5 +12,5 @@ Tasks:
 - Create a branch
 - Pull the branch
 - Push 
-- Create a Branch
+- Create a Local Branch
 - Put in remote
