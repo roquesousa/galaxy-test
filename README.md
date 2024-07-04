@@ -1,5 +1,5 @@
 # teste-in-GitHub
-testando push remote eukorroque com branch
+testing push remote eukorroque with branch
 
 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
 
